@@ -1,0 +1,3 @@
+service {
+	"NEO_<schema>"."T_IOT_<messagetypeid>" as "Climate" key generate local "GEN_ID";
+}

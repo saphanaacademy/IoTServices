@@ -1,0 +1,4 @@
+role <userid>trial.iotmmsxs::iotaccess {
+	application privilege: <userid>trial.iotmmsxs::Basic;
+	catalog schema "NEO_<schema>": SELECT;
+}
